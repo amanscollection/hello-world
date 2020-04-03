@@ -1,3 +1,3 @@
 # hello-world
 This is a sample hello world project
-try readme-edits
+this is try readme-edits
